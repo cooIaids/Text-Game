@@ -1,0 +1,11 @@
+Patient room;null;null;null;Exam room
+Exam room;null;null;Patient room;Utility room
+Utility room;null;Doctor's office;Exam room;null
+Art Therapy room;null;Reception;null;null
+Drug dispensary;null;Play room;null;Doctor's office
+Doctor's office;null;null;Drug dispensary;Bathroom
+Bathroom;null;Kitchen;Doctor's office;Reception
+Reception;Art Therapy room;Dining area;Bathroom;null
+Play room;Drug dispensary;null;null;null
+Kitchen;Bathroom;null;null;Dining area
+Dining area;Reception;null;Kitchen;null
